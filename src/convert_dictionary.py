@@ -1,6 +1,6 @@
 import csv
 
-with open('data/imdb_1.csv', newline='', encoding="utf-8") as csvfile:                   #reading dataset
+with open('data/imdb_1.csv', newline='', encoding="utf-8") as csvfile:              #reading dataset
     reader = csv.reader(csvfile)
     with open('imdb_1_raw.txt', 'w', encoding="utf-8") as textfile:                 #writing it to the new text file
         for row in reader:
