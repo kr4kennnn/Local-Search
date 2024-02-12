@@ -1,2 +1,2 @@
 # Local Search
- This is my first assignment for Artificial Intelligence class
+ This is my First Assignment for Artificial Intelligence class
